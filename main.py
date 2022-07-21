@@ -14,8 +14,6 @@ for item in inp:
 
 inp = inp2
 
-# inp = inp.lower().split()
-print(inp)
 inpSet = set(inp)
 
 print('Number of Total Words: {}'.format(len(inp)))
